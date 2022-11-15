@@ -6,10 +6,10 @@
 ## Description
 webAuthnを用いてreactでのログイン機能サンプルを実装してみるためのリポジトリ
 
-https://webauthn.io/
-https://github.com/MasterKale/SimpleWebAuthn
-https://simplewebauthn.dev/docs/packages/browser/
-https://stackoverflow.com/questions/73401786/how-to-implement-passkeys
+- https://webauthn.io/
+- https://github.com/MasterKale/SimpleWebAuthn
+- https://simplewebauthn.dev/docs/packages/browser/
+- https://stackoverflow.com/questions/73401786/how-to-implement-passkeys
 
 ## Requirement
 | name | version |
